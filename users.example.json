@@ -1,0 +1,7 @@
+[
+  {
+    "email": "owner@thespot-nyc.com",
+    "name": "Venue owner",
+    "passwordHash": "scrypt$salt$hex — replace with the output of npm run hash-password"
+  }
+]
